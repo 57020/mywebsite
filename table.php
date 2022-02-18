@@ -32,20 +32,20 @@
       <tr>
         <td>4</td
         <td>พิรพัฒน์ วัฒนเศรษสิริ</td>
-        <td>ดิเอิร์ทท</td>
-        <td><img src="https://s.isanook.com/ca/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2NhLzAvdWQvMjgwLzE0MDM0NjgvdGhlZWFydGhlXzEzNzIxOTE3MjE1NjkyMDEyNjMuanBn.jpg" width="130px"></td>
+        <td>ดิเอิร์ท</td>
+        <td><img src="" width="130px"></td>
         <td><a href="https://mobile.twitter.com/bbrightvc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
     <tr>
         <td>5</td>
         <td>สหภาพ วงศ์ราษฎร์</td>
         <td>มิกซ์ซิว</td>
-        <td><img src="https://mobile.twitter.com/bbrightvc/photo" width="130px"></td>
+        <td><img src="https://www.newtv.co.th/images/content/ct_20210419111518401.jpg" width="130px"></td>
         <td><a href="https://mobile.twitter.com/bbrightvc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
       <tr>
         <td>6</td>
         <td>ภวินท์ กุลการัณยวิชญ์</td>
         <td>ภวิน</td>
-        <td><img src="https://mobile.twitter.com/bbrightvc/photo" width="130px"></td>
+        <td><img src="https://s.isanook.com/ca/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2NhLzAvdWQvMjgwLzE0MDM0NjgvdGhlZWFydGhlXzEzNzIxOTE3MjE1NjkyMDEyNjMuanBn.jpg" width="130px"></td>
         <td><a href="https://mobile.twitter.com/bbrightvc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
       </tr>  
     </table>
