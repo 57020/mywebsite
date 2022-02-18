@@ -45,7 +45,7 @@
         <td>6</td>
         <td>ภวินท์ กุลการัณยวิชญ์</td>
         <td>ภวิน</td>
-        <td><img src="https://s.isanook.com/ca/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2NhLzAvdWQvMjgwLzE0MDM0NjgvdGhlZWFydGhlXzEzNzIxOTE3MjE1NjkyMDEyNjMuanBn.jpg" width="130px"></td>
+        <td><img src="https://i.pinimg.com/originals/79/31/1d/79311d4d8070998f0f7ec527d517dc75.jpg" width="130px"></td>
         <td><a href="https://mobile.twitter.com/bbrightvc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
       </tr>  
     </table>
