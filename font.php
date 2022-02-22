@@ -6,11 +6,11 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url()
+      src: url(baozi.woff)
     }
     @font-face{
       font-family: myFont2;
-      src: url()
+      src: url(FCFlexica_Non-commercial_-Bold.woff)
     }
     #font1{
 	font-family: myFont1;
